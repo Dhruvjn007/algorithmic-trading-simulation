@@ -1,0 +1,32 @@
+# ── generated data & outputs ──────────────────────────────────────────────
+data/
+results/
+plots/
+logs/
+
+# ── python ─────────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ── jupyter ────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+
+# ── environments ───────────────────────────────────────────────────────────
+.env
+.venv/
+venv/
+env/
+
+# ── os noise ───────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── optuna (creates a local sqlite db during ML tuning) ───────────────────
+*.db
+optuna_studies/
