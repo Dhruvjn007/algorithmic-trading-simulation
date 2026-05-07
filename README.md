@@ -42,7 +42,7 @@ The project is organized into a sequential pipeline of Jupyter Notebooks:
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/stock-predictor.git
+    git clone https://github.com/Dhruvjn007/algorithmic-trading-simulation/stock-predictor.git
     cd stock-predictor/stock_predictor
     ```
 
