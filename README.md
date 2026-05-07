@@ -42,8 +42,8 @@ The project is organized into a sequential pipeline of Jupyter Notebooks:
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/Dhruvjn007/algorithmic-trading-simulation/stock-predictor.git
-    cd algorithmic-trading-simulation/algorithmic_trading_simulation
+    git clone https://github.com/Dhruvjn007/MultiAsset-Quant-Simulation/stock-predictor.git
+    cd MultiAsset-Quant-Simulation/MultiAsset_Quant_simulation
     ```
 
 2.  **Install Dependencies**:
